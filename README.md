@@ -149,9 +149,8 @@ Hal ini menunjukkan bahwa salary dipengaruhi oleh kombinasi faktor:
 ---
 
 ## 🚀 Cara Menjalankan Project
-
-1. Clone repository:
 ```bash
+1. Clone repository:
 git clone <repo-url>
 2. Install dependencies:
 pip install pandas openpyxl matplotlib
