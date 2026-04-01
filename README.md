@@ -138,13 +138,13 @@ Hal ini menunjukkan bahwa salary dipengaruhi oleh kombinasi faktor:
 ---
 
 ## 📁 Struktur Project
-├── job_salary_prediction_dataset.csv
-├── job_salary_data_engineering.ipynb
-├── job_salary_analysis.ipynb
-├── cleaned_job_salary.xlsx
-├── job_salary.sql
-├── data_dictionary.xlsx
-└── README.md
+- job_salary_prediction_dataset.csv
+- job_salary_data_engineering.ipynb
+- job_salary_analysis.ipynb
+- cleaned_job_salary.xlsx
+- job_salary.sql
+- data_dictionary.xlsx
+- README.md
 
 ---
 
